@@ -226,3 +226,11 @@ button {
 .flip-card-back p {
   color: #EDE4C8;
 }
+
+.more {
+  width: 100%;
+  background-color: rgb(93, 92, 96);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
